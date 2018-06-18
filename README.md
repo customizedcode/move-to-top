@@ -7,6 +7,10 @@ More features may be added in the future.
 
 It works on WordPress 4.9 and should work on older versions of WordPress.
 
+## Languages/Platform used
+
+WordPress CMS, PHP, JavaScript, CSS, HTML and elbow grease.
+
 ## Licensing
 GPL v3
 
